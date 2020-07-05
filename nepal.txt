@@ -1,1 +1,2 @@
 Provinces of nepal
+province 1: province 2: province 3: province 4: province 5: province 6: province 7
