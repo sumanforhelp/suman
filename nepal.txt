@@ -1,2 +1,3 @@
 Provinces of nepal
 province 1: province 2: province 3: province 4: province 5: province 6: province 7
+Province 3 is named as Bagmati ; Provice 4 is named as Gandaki ; likewise province 6 and 7 are named as karnali and sudurpaschim pardesh.
